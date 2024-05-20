@@ -1,0 +1,71 @@
+#box3{
+    margin-top: 200px;
+    margin-left: 550px;
+   
+
+}
+
+
+
+
+
+#box4{
+ 
+    background: url('https://images.pexels.com/photos/600114/pexels-photo-600114.jpeg?cs=srgb&dl=pexels-victorfreitas-600114.jpg&fm=jpg=') no-repeat center center fixed;
+    background-size: cover;
+    color: white;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    align-items: center;
+    overflow: scroll;
+}
+
+
+
+#heading1{
+    
+     margin-left: 300px;
+     margin-bottom: 250px;
+        color: aliceblue;
+        width: 600px; /* You can adjust the width as needed */
+        height: 300px; /* You can adjust the height as needed */
+     
+    
+    
+}
+
+
+
+
+#box1{
+    margin-left: 400px;
+    height: 500px;
+    width:800px;
+    background-image: url('https://mixkit.imgix.net/videos/preview/mixkit-student-doing-research-in-university-library-with-books-and-laptop-8826-0.jpg?q=80&auto=format%2Ccompress');
+        /* You can also specify background properties like repeat, size, position, etc. */
+        background-size: cover;
+        background-position: center;
+        /* Add more styles if needed */
+}
+#button1{
+    height: 50px;
+    width:500px;
+    margin-left: 35px;
+    background-color: transparent;
+    border: 2px solid rgb(11, 11, 11);
+}
+button{
+    height: 50px;
+    width:500px;
+    margin-left: 35px;
+    background-color: transparent;
+    border: 2px solid black;
+}
+#button3{
+    background-color: transparent;
+}
+#button{
+    margin-left: 150px;
+}

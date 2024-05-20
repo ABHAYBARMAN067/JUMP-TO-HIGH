@@ -1,0 +1,94 @@
+body {
+    background: url('https://media.istockphoto.com/id/135341581/photo/old-books-in-a-library-big-file.webp?b=1&s=170667a&w=0&k=20&c=cMd8RZW_pnuxg8M5TWZDonJPEsth4qr3tJpu_5aen8s=') no-repeat center center fixed;
+    background-size: cover;
+    color: white;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    align-items: center;
+    overflow: scroll;
+}
+
+.navbar {
+    background-color: #333;
+    padding: 1em;
+    text-align: center;
+}
+
+.navbar h1 {
+    margin: 0;
+    color: white;
+}
+
+.navbar {
+    height: 50px;
+    background-color: #333;
+    color: rgb(234, 228, 228);
+}
+
+.navbar a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+    margin-left: 200px;
+}
+
+.navbar a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.content {
+    padding: 2em;
+    text-align: center;
+}
+
+.content h2 {
+    margin-bottom: 1em;
+}
+
+.branch {
+    margin: 1em 0;
+}
+
+.branch h3 {
+    margin: 0.5em 0;
+}
+
+.branch ul {
+    list-style: none;
+    padding: 0;
+}
+
+.branch ul li {
+    margin: 0.5em 0;
+}
+
+.branch ul li a, .branch h3 a {
+    color: white;
+    text-decoration: none;
+}
+
+.branch ul li a:hover, .branch h3 a:hover {
+    text-decoration: underline;
+}
+
+  footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(10, 6, 6);
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+  }
+  button{
+    height: 50px;
+    width:500px;
+    margin-left: 35px;
+    background-color: transparent;
+    border: 2px solid black;}

@@ -1,0 +1,16 @@
+div{
+    height: 5px;
+    width: 50px;
+}
+div{
+    .logo {
+        margin-left: 400px;
+        background-image: url('logo.png');
+        background-size: cover;
+        height: 800px;
+        width: 800px; /* Adjust the width according to your logo */
+    }
+}
+#HEAD{
+    margin-top: 300PX;
+}

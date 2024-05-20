@@ -1,0 +1,198 @@
+
+
+
+/* Basic CSS for Navbar */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-image: url('https://static.vecteezy.com/system/resources/previews/024/744/896/non_2x/a-modern-library-with-a-large-collection-of-textbooks-in-a-row-generated-by-ai-free-photo.jpg');
+    scroll-behavior: smooth;
+    /* You can also specify background properties like repeat, size, position, etc. */
+    background-size: cover;
+    background-position: center;
+    /* Add more styles if needed */
+  }
+  
+  * {
+    margin-top: 0px;
+    box-sizing: border-box; /* Corrected property name */
+  }
+  
+  .navbar {
+    background-color: #666;
+    height: 60px;
+    color: rgb(234, 228, 228);
+  }
+  
+  .navbar a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+    margin-left: 200px;
+  }
+  
+  .navbar a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .navbar a.active {
+    background-color: #666;
+  }
+  
+  #box1 {
+    margin-top: 200px;
+    margin-left: 500px;
+    background-image: url('https://images.unsplash.com/photo-1579370318443-8da816457e3d?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8bGlicmFyaWVzfGVufDB8fDB8fHww');
+    height: 300px;
+    width: 700px;
+    border-radius: 2px;
+    border: 2px solid white;
+    
+    /* You can also specify background properties like repeat, size, position, etc. */
+    background-size: cover;
+    background-position: center;
+    /* Add more styles if needed */
+  }
+  
+  #box3 {
+    margin-top: 100px;
+  }
+  
+  #heading1 {
+    margin-left: 100px;
+    color: blue;
+  }
+  
+  #box2 {
+    display: flex;
+  }
+  
+  #heading2 {
+    margin-left: 600px;
+  }
+  
+  
+  
+  #year1 {
+    margin-left: 150px;
+    border: 3px solid white;
+  }
+  
+  #year2 {
+    margin-left: 20px;
+    border: 3px solid white;
+  }
+  
+  #year3 {
+    margin-left: 20px;
+    border: 3px solid white;
+  }
+  
+  #year4 {
+    margin-left: 20px;
+    border: 3px solid white;
+  }
+  
+  .border:hover {
+    border: 3px solid white;
+  }
+  .website {
+    font-size: 24px;
+    color: aqua;
+    height: 100px;
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(10, 6, 6);
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+  }
+  
+
+  
+.contact-container {
+    width: 80%;
+    max-width: 800px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 3em;
+    margin-bottom: 20px;
+}
+
+.contact-info p {
+    font-size: 1.2em;
+    margin: 10px 0;
+}
+
+.contact-info a {
+    color: #ffa500;
+    text-decoration: none;
+}
+
+.contact-form {
+    margin: 20px 0;
+}
+
+.contact-form input,
+.contact-form textarea {
+    width: 100%;
+    padding: 15px;
+    margin: 10px 0;
+    border: none;
+    border-radius: 5px;
+    font-size: 1em;
+}
+
+.contact-form button {
+    background-color: #ffa500;
+    color: #000;
+    border: none;
+    padding: 15px 30px;
+    border-radius: 5px;
+    font-size: 1.2em;
+    cursor: pointer;
+}
+
+.footer {
+    margin-top: 20px;
+    font-size: 0.8em;
+    color: #aaa;
+}
+
+.social-icons {
+    margin: 20px 0;
+}
+
+.social-icons a {
+    margin: 0 10px;
+}
+
+.social-icons img {
+    width: 30px;
+}
+
+.disclaimer {
+    margin-top: 20px;
+    font-size: 0.7em;
+}
+
+.disclaimer a {
+    color: #ffa500;
+}
+
+
+#contact{
+    margin-left: 350px;
+}
